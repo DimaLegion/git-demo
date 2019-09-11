@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 asus rog
+=======
+hi!
+>>>>>>> 186fbb07b6c722dbaa396ba2fbce9d377e47e9b7
